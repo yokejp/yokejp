@@ -1,7 +1,7 @@
 name: snake game from a github user contributions graph
 
 on:
-  # run automatically at 0 o'clok
+  # run automatically at 0 o'clock
   schedule:
     - cron: "0 0 * * * " 
   
